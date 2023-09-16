@@ -1,0 +1,12 @@
+name: "Apple_Podcast-Proxy"
+desc: Apple_Podcast相关域名ACR规则代理
+author: mlazaka
+homepage: "https://github.com/mlazaka/Apple_Podcast-Proxy"
+icon: "https://github.com/Koolson/Qure/blob/master/IconSet/Apple.png"
+
+
+rules:
+  - DOMAIN-SUFFIX,amp-api.podcasts.apple.com,🍎 苹果服务
+  - DOMAIN-SUFFIX,podcasts.apple.com,🍎 苹果服务
+  - DOMAIN-SUFFIX,bag.itunes.apple.com,🍎 苹果服务
+  - DOMAIN-SUFFIX,bookeeper.itunes.apple.com,🍎 苹果服务
