@@ -1,2 +1,2 @@
 # Apple_Podcast-Proxy
-Apple Podcast proxy rules stoverride for stash.
+Apple Podcast ACL proxy rules stoverride for stash.
