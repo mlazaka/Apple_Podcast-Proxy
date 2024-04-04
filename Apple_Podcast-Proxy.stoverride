@@ -2,7 +2,7 @@ name: "Apple_Podcast-Proxy"
 desc: Apple_Podcast相关域名ACR规则代理
 author: mlazaka
 homepage: "https://github.com/mlazaka/Apple_Podcast-Proxy"
-icon: "https://github.com/Koolson/Qure/blob/master/IconSet/Apple.png"
+icon: "https://github.com/Koolson/Qure/raw/master/IconSet/Apple.png"
 
 
 rules:
